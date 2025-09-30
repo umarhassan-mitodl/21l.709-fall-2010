@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "legacy_uid": "56994b45-f0cf-f2ab-a473-0a3719971ed6",
+  "instructors": {
+    "content": [
+      "eacd24f8-fedc-ae68-0858-42943042b346"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8cb1688c-60bf-5be4-8a17-852bb90650d9",
+    "website": "21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010"
+  },
+  "course_title": "Studies in Literary History: Modernism: From Nietzsche to Fellini",
+  "hide_download": true,
+  "course_description": "How do literature, philosophy, film and other arts respond to the profound changes in world view and lifestyle that mark the twentieth century? This course considers a broad range of works from different countries, different media, and different genres, in exploring the transition to a decentered \"Einsteinian\" universe.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.709",
+  "course_image_thumbnail": {
+    "content": "af21470e-67fc-2a92-26e0-9557f59eb1b1",
+    "website": "21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "8a0537c7-f1ef-49fd-9665-612a23de17b5",
+  "site_short_id": "21l.709-fall-2010",
+  "site_url_path": "courses/21l-709-studies-in-literary-history-modernism-from-nietzsche-to-fellini-fall-2010",
+  "title": "Course Metadata"
+}
