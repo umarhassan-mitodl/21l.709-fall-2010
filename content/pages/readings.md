@@ -14,7 +14,7 @@ Nietzsche, Friedrich. *The Will to Power*. Edited by Walter Kaufmann. New York, 
 
 Chopin, Kate. *The Awakening and Selected Stories*. New York, NY: Penguin Group Inc., 2003. ISBN: 9780142437322.
 
-Lawrence, D. H. "[Odour of Chrysanthemums](https://shortstoryproject.com/stories/odour-of-chrysanthemums/)".
+Lawrence, D. H. "{{% resource_link "bb3f1430-4b37-4091-aec6-afdd5b8b9931" "Odour of Chrysanthemums" %}}".
 
 Kafka, Franz. *The Trial*. Translated by Mitchell Breon. New York, NY: Schocken, 1999. ISBN: 9780805209990.
 
@@ -34,8 +34,8 @@ Heidegger, Martin. *Poetry, Language, Thought*. New York, NY: HarperCollins Publ
 
 ## Films
 
-Lang, Fritz. [M](http://www.imdb.com/title/tt0022100/). (1931)
+Lang, Fritz. {{% resource_link "e05ad28b-3a41-4d6f-a42f-8d73daf15f88" "M" %}}. (1931)
 
-Cocteau, Jean. [Beauty and the Beast](http://www.imdb.com/title/tt0038348/). (1946)
+Cocteau, Jean. {{% resource_link "6893fda7-0944-4081-bfdf-38acf9823027" "Beauty and the Beast" %}}. (1946)
 
-Fellini, Federico. [8½](http://www.imdb.com/title/tt0056801/). (1963)
+Fellini, Federico. {{% resource_link "f7355ed6-6791-4910-8cd5-8666b989be66" "8½" %}}. (1963)
