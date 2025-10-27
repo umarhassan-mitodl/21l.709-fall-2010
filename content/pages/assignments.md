@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the writing and oral presentation
   assignments of the course, along with examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
